@@ -1,14 +1,32 @@
-/* sheet1.css */
+/* sheet0.css */
 
-head {
-text-align: center;
-color: blue;
-font-size: 200%;
+body {
+     text-align: center;
+     color: blue;
+     font-size: 200%;
+     background-color: yellow;
 }
 
-body{
-background-color: yellow;
-font: 15px courier, fantasy;
+h1{
+	font: 15px courier, fantasy;
+	text-transform: uppercase;
 }
+
+h3{
+	font: 50px arial, serif;
+	font-weight: bold;
+}
+
+ul{
+	letter-spacing: 10px;
+}
+
+h2{
+	text-align: left;
+}
+
+
+
+
 
 
