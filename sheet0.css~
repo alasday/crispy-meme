@@ -8,8 +8,7 @@ body {
 }
 
 .extreme{
-	letter-spacing: 20px;
-	 text-transform: uppercase; 
+/*	 text-transform: uppercase; 
 }
 
 .navzone{
