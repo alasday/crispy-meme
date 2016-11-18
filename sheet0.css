@@ -9,11 +9,19 @@ body {
 
 .extreme{
 	letter-spacing: 20px;
-	 text-transform: uppercase; 
+	text-transform: uppercase; 
 }
 
 .navzone{
 	writing-mode: vertical-lr;
+}
+
+.content{
+	font-weight: bold;
+}
+
+.prose{
+	text-transform: lowercase;
 }	
 
 h1{
