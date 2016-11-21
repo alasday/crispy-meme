@@ -1,0 +1,47 @@
+/* sheet2.css */
+
+body {
+     background-image: url("http://66.media.tumblr.com/tumblr_m3gp9aEgQ61qhqw3xo1_1280.jpg");
+     background-size: cover;
+     background-color: FF7800;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+	font-size: 20px;
+	color: 303036;
+	border-style: solid;
+	text-align: center;
+}
+.main{
+	padding: 2cm;
+	position: relative;
+	font-size: 12px;
+	color: 240115;
+	text-align: center;
+	
+}
+.footheader{
+	text-align: left;
+	padding-top: 40px;
+	font-size: 15px;
+	color:303036;
+}
+.notes{
+	 font-size: 10px;
+	 color: A7A2A9;
+	 text-align: left;
+	 position: relative;
+}
+
+
+h1{
+	list-style-type: circle;
+}
+
+
+
+
+
+
+
